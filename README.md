@@ -1,2 +1,2 @@
 # loom
-A Runtime System for Heterogeneous Multiple Hardware Thread Architectures
+A Core-Level Runtime for Heterogeneous Multiple Hardware Thread Architectures
